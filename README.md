@@ -201,45 +201,4 @@ print (aluno)
 ```
 <hr>
 
-### 30/03/2026 - Funções e Procedimentos (Python – Console)
-**Objetivo** - Compreender a criação, utilização e retorno de valores em funções, aplicando boas práticas de organização e clareza do código.
-
-### **Soma de Dois Números*** 
-**Q14.** Crie uma função que receba dois números como parâmetros e retorne a soma entre eles.
-```
-
-```
-### **Verificação de Maioridade*** 
-**Q15.** Crie uma função que receba a idade de uma pessoa e retorne se ela é maior de idade (idade maior ou igual a 18).
-```
-
-```
-### **Cálculo do Total a Pagar*** 
-**Q16.** Crie uma função que receba o valor unitário de um produto e a quantidade comprada, e retorne o valor total a pagar.
-```
-
-```
-<hr> 
-
-### 06/04/2026 - Programação Orientada a Objetos (POO)
-**Q16.** Crie um programa em Python que: <br>
-<br>
-* **Defina uma classe chamada Produto** <br>
-* A classe deve possuir: Atributos: nome e preco <br>
-
-<br>
-                                                   
-
-* **Um método chamado mostrar_dados()** <br>
-* que exiba as informações do produto
- <br>
- 
-* **No programa principal:**
-* *Crie um objeto da classe Produto* <br>
-* *Exiba seus dados utilizando o método criado*
-```
-
-```
-
-
 
